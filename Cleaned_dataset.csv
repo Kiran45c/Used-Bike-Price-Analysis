@@ -1,0 +1,826 @@
+Vechicle Name,Model,Buy_Year,Price,Engine_CC,No_of_owners,KM runs,City,State,Vehicle_Type
+Royal ,Royal Enfield Thunderbird 350,2019,120000,340.0,Single,32000,Chennai,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird TwinSpark 350,2009,80000,340.0,Single,34700,Banashankari,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 125,2025,80000,125.0,Single,2100,Faridabad,Haryana,Manual_Vehicle
+Hero ,Hero Electric Photon,2022,80000,105.0,Single,23000,Pharenda,Uttar Pradesh,Manual_Vehicle
+Ola ,Ola S1 Pro,2022,80000,,Single,24000,Thumkunta,Telangana,Electrical_Vehicle
+Honda ,Honda XBlade BS6,2020,79000,110.0,Single,24000,Ameerpet,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Discover 150 S,2012,20000,150.0,Single,50000,Marathahalli,Karnataka,Manual_Vehicle
+Aprilia ,Aprilia SR 160 Carbon ABS,2020,40000,160.0,Single,61500,Telangana,Telangana,Manual_Vehicle
+Suzuki ,Suzuki Access 125,2023,90000,110.0,Single,10935,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Duet 110,2016,43500,105.0,Single,12000,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Xpulse 200 4V,2022,120000,105.0,Single,13787,Hyderabad,Telangana,Manual_Vehicle
+Aprilia ,Aprilia SXR 160,2020,45000,160.0,Single,35000,Andheri East,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N160 Dual Channel ABS,2024,100000,160.0,Single,13450,Bhilwara,Rajasthan,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF BS6,2025,60000,110.0,Single,3600,Bhilwara,Rajasthan,Manual_Vehicle
+Hero ,Hero Glamour Xtec,2022,60000,105.0,Single,25600,North 24 Parganas,West Bengal,Manual_Vehicle
+Harley ,Harley Davidson Fat Bob,2018,1200000,440.0,Single,14000,Gurgaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Bullet Machismo A350,2004,90000,340.0,Multiple,70000,Bangalore,Karnataka,Manual_Vehicle
+Ather ,Ather 450X,2022,110000,450.0,Single,25453,Bangalore,Karnataka,Manual_Vehicle
+Keeway ,Keeway SR 125,2024,95000,125.0,Single,9000,Kalyan,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2019,70000,200.0,Single,30000,Wakad,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 BS6,2022,85000,150.0,Single,22000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Bullet Standard 500,2015,100000,340.0,Single,24170,Vadodara,Gujarat,Manual_Vehicle
+Revolt ,Revolt RV 400,2020,70000,400.0,Multiple,49000,New Delhi,Delhi,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2021,250000,340.0,Single,7500,Ahmedabad,Gujarat,Manual_Vehicle
+Suzuki ,Suzuki Lets 110,2018,40000,110.0,Single,49000,Gurgaon,Haryana,Manual_Vehicle
+Honda ,Honda CB Shine,2018,40000,110.0,Single,42000,Bharuch,Gujarat,Manual_Vehicle
+Hero ,Hero XPulse 200T BS6,2021,62000,105.0,Single,34000,Kolkata,West Bengal,Manual_Vehicle
+Honda ,Honda Shine 125 Drum,2011,45000,110.0,Single,30787,Bangalore,Karnataka,Manual_Vehicle
+Triumph ,Triumph Scrambler 400 X,2024,260000,400.0,Single,4124,Pune,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 4G,2018,40000,110.0,Single,63000,Vadodara,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS200,2017,70000,200.0,Single,51000,Ameerpet,Telangana,Manual_Vehicle
+Bicycle ,Bicycle  LIBERTY SWIFT,2025,65000,,Single,5,Noida,Uttar Pradesh,Electrical_Vehicle
+Bajaj ,Bajaj Pulsar 150 Neon BS6,2021,65000,150.0,Single,19500,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda CB Trigger,2013,50000,110.0,Single,66434,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Ola ,Ola S1 Pro,2024,125000,,Single,1000,Rajajinagar,Karnataka,Electrical_Vehicle
+TVS ,TVS Apache RR 310,2020,129999,100.0,Multiple,11800,Thane,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2022,110000,200.0,Single,18500,Gurgaon,Haryana,Manual_Vehicle
+Harley ,Harley Davidson Iron 883,2016,567000,440.0,Single,6300,Bangalore,Karnataka,Manual_Vehicle
+BMW ,BMW G 310 R,2023,225000,310.0,Single,7500,Patna,Bihar,Manual_Vehicle
+Honda ,Honda Activa 3G,2016,35000,110.0,Single,80200,Tirumalagiri,Telangana,Manual_Vehicle
+Ola ,Ola S1 Pro,2022,79999,,Single,11371,Electronic City,Karnataka,Electrical_Vehicle
+Royal ,Royal Enfield Classic Stealth Black,2024,265000,340.0,Single,4000,Tumkur,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Avenger 220 DTS-i,2018,100000,220.0,Single,25000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Classic 500,2017,95000,340.0,Single,13000,Guwahati,Assam,Manual_Vehicle
+Bajaj ,Bajaj Avenger Cruise 220,2019,81000,220.0,Single,15000,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero Xtreme 125R,2024,80000,105.0,Single,16988,Vijayawada,Andhra Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2015,80000,340.0,Single,25750,Bangalore,Karnataka,Manual_Vehicle
+Honda ,Honda Activa 5G,2018,43000,110.0,Multiple,43000,Bharuch,Gujarat,Manual_Vehicle
+Honda ,Honda Dio Standard,2014,25000,110.0,Single,57000,Bangalore,Karnataka,Manual_Vehicle
+TVS ,TVS Scooty Zest,2015,30000,100.0,Single,30000,Vadodara,Gujarat,Manual_Vehicle
+Royal ,Royal Enfield Classic 500,2014,110000,340.0,Single,49333,Amberpet,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Avenger Cruise 220,2015,25000,220.0,Single,50000,Kandivali,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 180 BS6,2021,80000,100.0,Single,65000,Bahraich,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha R15 V4,2022,125000,200.0,Single,34000,Golconda,Telangana,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2017,45000,200.0,Single,45000,Bhubaneshwar,Orissa,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160 BS6,2022,75000,160.0,Single,37000,Solapur,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar RS 200 ABS,2017,95000,200.0,Single,26000,Sarjapur Road,Karnataka,Manual_Vehicle
+Revolt ,Revolt RV 400,2022,90000,400.0,Single,12500,Perambur,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Apache RTR 200 4V ABS,2020,80000,100.0,Single,18000,Sholinganallur,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Activa 4G,2018,35000,110.0,Single,55000,Shaikpet,Telangana,Manual_Vehicle
+Benelli ,Benelli Imperiale 400 BS6,2022,200000,400.0,Single,16000,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Bullet Electra 5S,2008,65000,340.0,Single,35000,Kozhikode,Kerala,Manual_Vehicle
+Hero ,Hero Super Splendor BS6,2020,55000,105.0,Single,18700,Kalyan,Maharashtra,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS Cosmic Carbon,2023,200000,300.0,Single,12300,Pune,Maharashtra,Manual_Vehicle
+KTM ,KTM Duke 200 ABS,2023,175000,200.0,Single,14300,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Xtreme,2012,20000,105.0,Single,100000,Kalyan,Maharashtra,Manual_Vehicle
+Harley ,Harley Davidson Fat Bob,2018,1200000,440.0,Single,14000,Gurgaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2023,165000,340.0,Single,11500,Pune,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Bullet,2025,50000,340.0,Single,1185,Kolkata,West Bengal,Manual_Vehicle
+TVS ,TVS Apache RTR 180,2018,50000,100.0,Single,13000,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 200 2024,2024,145000,200.0,Single,10800,Narasaraopet,Andhra Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Bullet Machismo A350,2004,90000,340.0,Multiple,70000,Bangalore,Karnataka,Manual_Vehicle
+Ather ,Ather 450X,2022,110000,450.0,Single,25453,Bangalore,Karnataka,Manual_Vehicle
+Keeway ,Keeway SR 125,2024,95000,125.0,Single,9000,Kalyan,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2019,70000,200.0,Single,30000,Wakad,Maharashtra,Manual_Vehicle
+Yezdi ,Yezdi Roadster Chrome,2022,155000,340.0,Single,16400,Madurai,Tamil Nadu,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2024,168000,340.0,Single,7600,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 BS6,2022,85000,150.0,Single,22000,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 125,2020,45000,125.0,Single,70000,Motihari,Bihar,Manual_Vehicle
+Royal ,Royal Enfield Bullet Standard 500,2015,100000,340.0,Single,24170,Vadodara,Gujarat,Manual_Vehicle
+Revolt ,Revolt RV 400,2020,70000,400.0,Multiple,49000,New Delhi,Delhi,Manual_Vehicle
+Jawa ,Jawa 42 Bobber Dual Channel ABS,2022,120000,300.0,Single,18000,Chennai,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2021,250000,340.0,Single,7500,Ahmedabad,Gujarat,Manual_Vehicle
+Suzuki ,Suzuki Lets 110,2018,40000,110.0,Single,49000,Gurgaon,Haryana,Manual_Vehicle
+Honda ,Honda CB Shine,2018,40000,110.0,Single,42000,Bharuch,Gujarat,Manual_Vehicle
+Hero ,Hero Maestro,2015,28500,105.0,Single,70000,Ambala,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Platina 100 ES,2020,55000,100.0,Single,44000,Shrirampur,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha R15M,2021,160000,200.0,Single,25000,Rajajinagar,Karnataka,Manual_Vehicle
+KTM ,KTM Duke 200,2016,100000,200.0,Single,24426,Vikhroli,Maharashtra,Manual_Vehicle
+Hero ,Hero Destini 125 VX,2021,50000,105.0,Single,38000,Giridih,Jharkhand,Manual_Vehicle
+Honda ,Honda CB300F Flex-Fuel,2025,70000,110.0,Single,600,Mumbai,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 200 4V 2020,2019,70000,100.0,Single,70000,Panvel,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj CT 100,2016,25000,100.0,Single,27962,Sanganer,Rajasthan,Manual_Vehicle
+Hero ,Hero Pleasure,2011,25000,105.0,Single,55955,Lucknow,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Electric Photon LP,2021,30000,105.0,Single,24900,Keeranur,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Passion,2022,105000,105.0,Single,82357,Kanpur Nagar,Uttar Pradesh,Manual_Vehicle
+Vida ,Vida V1 Plus,2024,105000,,Single,6600,Ahmednagar,Maharashtra,Manual_Vehicle
+BMW ,BMW F 900 GS Adventure,2025,41000,895.0,Single,3600,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero HF 100,2021,41000,105.0,Single,15000,New Delhi,Delhi,Manual_Vehicle
+Hero ,Hero Glamour 125 Drum,2017,35000,105.0,Single,20300,Dwarka,Delhi,Manual_Vehicle
+Triumph ,Triumph Speed 400,2023,225000,400.0,Single,33000,Ameerpet,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Classic 350 Single Channel BS6,2020,140000,340.0,Single,13500,South Delhi,Delhi,Manual_Vehicle
+KTM ,KTM Duke 200 2022,2022,170000,200.0,Single,18750,Aruppukkottai,Tamil Nadu,Manual_Vehicle
+Yamaha ,Yamaha FZ-X,2023,90000,200.0,Single,37000,Ambattur,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Raider 125,2023,80000,100.0,Single,33500,Aurangabad,Maharashtra,Manual_Vehicle
+Vespa ,Vespa VXL 125 BS6,2023,62000,125.0,Single,21637,Hyderabad,Telangana,Manual_Vehicle
+Hero ,Hero XPulse 200T BS6,2021,62000,105.0,Single,34000,Kolkata,West Bengal,Manual_Vehicle
+Suzuki ,Suzuki Gixxer 150,2015,35000,110.0,Single,36800,Bellandur,Karnataka,Manual_Vehicle
+Honda ,Honda Shine 125 Drum,2011,45000,110.0,Single,30787,Bangalore,Karnataka,Manual_Vehicle
+Triumph ,Triumph Scrambler 400 X,2024,260000,400.0,Single,4124,Pune,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 4G,2018,40000,110.0,Single,63000,Vadodara,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS200,2017,70000,200.0,Single,51000,Ameerpet,Telangana,Manual_Vehicle
+Yamaha ,Yamaha Fascino 125 Fi Hybrid,2024,80000,200.0,Single,11000,Jaipur,Rajasthan,Manual_Vehicle
+Bicycle ,Bicycle  LIBERTY SWIFT,2025,65000,,Single,5,Noida,Uttar Pradesh,Electrical_Vehicle
+Bajaj ,Bajaj Pulsar 150 Neon BS6,2021,65000,150.0,Single,19500,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda CB Trigger,2013,50000,110.0,Single,66434,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Ola ,Ola S1 Pro,2024,125000,,Single,1000,Rajajinagar,Karnataka,Electrical_Vehicle
+Royal ,Royal Enfield Classic 350,2017,145000,340.0,Single,29000,Ambattur,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Apache RR 310,2020,129999,100.0,Multiple,11800,Thane,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2022,110000,200.0,Single,18500,Gurgaon,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 Twin Disc,2018,48000,150.0,Single,63000,Nashik,Maharashtra,Manual_Vehicle
+Yezdi ,Yezdi Adventure Gloss,2022,149000,340.0,Multiple,14000,Anand,Gujarat,Manual_Vehicle
+Harley ,Harley Davidson Iron 883,2016,567000,440.0,Single,6300,Bangalore,Karnataka,Manual_Vehicle
+BMW ,BMW G 310 R,2023,225000,310.0,Single,7500,Patna,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150,2016,35000,150.0,Single,100000,Narot Jaimal Singh,Punjab,Manual_Vehicle
+Ola ,Ola S1 Pro Gen 3 4kWh,2025,100000,,Single,3400,Rahata,Maharashtra,Electrical_Vehicle
+Bajaj ,Bajaj Pulsar 220F BS6,2020,100000,220.0,Single,27000,Dehradun,Utarakhand,Manual_Vehicle
+Bajaj ,Bajaj V15,2017,35000,155.0,Single,60000,Gandhinagar,Gujarat,Manual_Vehicle
+Ola ,Ola S1,2022,95000,,Single,9893,Pimpri-Chinchwad,Maharashtra,Electrical_Vehicle
+Hero ,Hero Splendor Plus Xtec,2022,65000,105.0,Single,39450,Mayur Vihar,Delhi,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2023,210000,340.0,Single,15000,Gandhi Nagar,Delhi,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2018,61000,100.0,Single,32400,Salem,Tamil Nadu,Manual_Vehicle
+Honda ,Honda SP 125 BSVI,2022,70000,110.0,Single,30000,Bokaro,Jharkhand,Manual_Vehicle
+Aprilia ,Aprilia SXR 125,2022,80000,125.0,Single,15500,Malad,Maharashtra,Manual_Vehicle
+KTM ,KTM 390 Adventure 2022,2022,290000,390.0,Single,13390,New Delhi,Delhi,Manual_Vehicle
+Jawa ,Jawa forty two,2020,125000,300.0,Single,8500,Hyderabad,Telangana,Manual_Vehicle
+TVS ,TVS Sport,2022,45000,100.0,Single,16967,Chhainsa,Haryana,Manual_Vehicle
+Yamaha ,Yamaha R15M WGP 60th Anniversary Edition,2022,153000,200.0,Single,34000,Secunderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Platina 110 H-Gear BS6,2021,55000,110.0,Single,34449,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Himalayan 452,2022,220000,340.0,Multiple,33500,Trivandrum,Kerala,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF SP,2018,55000,110.0,Single,30000,Andheri West,Maharashtra,Manual_Vehicle
+TVS ,TVS Jupiter BS6,2021,75000,100.0,Single,68500,Kurnool,Andhra Pradesh,Manual_Vehicle
+Evtric ,Evtric Ride,2023,110000,,Single,1044,Bangalore,Karnataka,Manual_Vehicle
+Suzuki ,Suzuki Intruder 150 BS6,2022,110000,110.0,Single,26000,Bangalore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Bullet Electra,2021,145000,340.0,Single,42500,Udupi,Karnataka,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2024,100000,,Single,42000,Barakar,West Bengal,Electrical_Vehicle
+Honda ,Honda Activa 3G,2016,35000,110.0,Single,80200,Tirumalagiri,Telangana,Manual_Vehicle
+TVS ,TVS Ronin TD,2023,170000,100.0,Single,12000,Hosur,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2018,170000,340.0,Single,21000,KR Puram,Karnataka,Manual_Vehicle
+Hero ,Hero Xtreme 125R,2025,145000,105.0,Single,950,New Delhi,Delhi,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF BS6,2024,145000,110.0,Single,6000,Auraiya,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki V-Strom SX,2022,130000,110.0,Single,23000,Ahmedabad,Gujarat,Manual_Vehicle
+Hero ,Hero Xtreme 125R,2024,88000,105.0,Single,1100,Faridabad,Haryana,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF,2017,35000,110.0,Single,40000,Pune,Maharashtra,Manual_Vehicle
+KTM ,KTM Duke 390,2014,150000,390.0,Single,20000,Lucknow,Uttar Pradesh,Manual_Vehicle
+BMW ,BMW G 310 GS,2023,320000,313.0,Single,23000,Hyderabad,Telangana,Manual_Vehicle
+Hero ,Hero Electric Optima CX Dual Battery,2022,35000,105.0,Single,15000,Navi Mumbai,Maharashtra,Manual_Vehicle
+KTM ,KTM Duke 200,2016,65000,200.0,Single,46500,Kalyan,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 5G,2018,45000,110.0,Single,360000,Kottucherry,Pondicherry,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF BS6,2024,100000,110.0,Single,41500,Kadapa,Andhra Pradesh,Manual_Vehicle
+Hero ,Hero Pleasure Plus BS6,2022,60000,105.0,Single,7800,Hadapsar,Maharashtra,Manual_Vehicle
+TVS ,TVS Scooty Pep Plus,2011,170000,100.0,Single,67635,Vile Parle,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 2025,2023,170000,340.0,Single,6000,Shaikpet,Telangana,Manual_Vehicle
+Harley ,Harley Davidson X440 S,2025,35000,440.0,Single,1600,Chennai,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Shine 125 Drum,2011,35000,110.0,Single,72000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird X 500,2016,99999,340.0,Single,5000,Velachery,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Glamour 125 Disc,2025,45000,105.0,Single,5000,North East Delhi,Delhi,Manual_Vehicle
+Yamaha ,Yamaha FZ FI V2,2019,45000,200.0,Single,23000,Kishanganj,Bihar,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2023,200000,340.0,Single,10500,Bankura,West Bengal,Manual_Vehicle
+Hero ,Hero Passion Pro BS6,2019,50000,105.0,Single,41500,Bihar,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2014,24000,150.0,Single,55000,Tigaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Retro,2024,160000,340.0,Single,12900,Bokaro,Jharkhand,Manual_Vehicle
+Honda ,Honda CB Unicorn,2014,60000,110.0,Single,7000,Vasai-Virar,Maharashtra,Manual_Vehicle
+Jawa ,Jawa forty two,2021,160000,300.0,Single,14000,Uttar Pradesh,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Activa 6G H-smart,2024,90000,110.0,Single,2889,Bagaha,Bihar,Manual_Vehicle
+TVS ,TVS Jupiter 125,2022,80000,100.0,Single,17000,Nagpur,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2008,25000,150.0,Single,50000,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero XPulse 200T BS6,2021,85000,105.0,Single,32000,North 24 Parganas,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 180 DTSi,2016,35000,180.0,Single,29000,Faridabad,Haryana,Manual_Vehicle
+Honda ,Honda CB Unicorn,2013,35000,110.0,Single,20025,Mumbai,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220 DTSi,2013,45000,220.0,Single,62500,Mysore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Bullet Standard 350,2021,180000,340.0,Single,31000,Haridwar,Utarakhand,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 200 NS,2017,100000,200.0,Single,24000,Jaipur,Rajasthan,Manual_Vehicle
+Ola ,Ola S1 Pro,2024,110000,,Single,7800,Narnaul,Haryana,Electrical_Vehicle
+Honda ,Honda Activa 5G,2019,49999,110.0,Single,14000,Zirakpur,Punjab,Manual_Vehicle
+Yamaha ,Yamaha R15 V4,2021,120000,200.0,Single,13000,Andheri,Maharashtra,Manual_Vehicle
+BMW ,BMW G 310 R,2025,180000,310.0,Single,4000,Bangalore,Karnataka,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2023,180000,110.0,Single,25000,Kalyan,Maharashtra,Manual_Vehicle
+Hero ,Hero Passion Pro,2013,32000,105.0,Single,52000,Pune,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-X,2023,110000,200.0,Single,8000,Hyderabad,Telangana,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2025,185000,,Single,3980,Deoband,Uttar Pradesh,Electrical_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2023,185000,340.0,Single,3045,Sarjapur Road,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V3 BS6,2020,75000,200.0,Single,45000,Mulund West,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 V2,2017,55000,200.0,Single,29000,Dhanpuri,Madhya Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar AS 150,2015,42000,150.0,Single,13000,Bhubaneshwar,Orissa,Manual_Vehicle
+KTM ,KTM Duke 125 2022,2022,160000,125.0,Single,6000,Ameenpur,Telangana,Manual_Vehicle
+Hero ,Hero CBZ Xtreme,2010,26000,105.0,Single,54000,Kalyan,Maharashtra,Manual_Vehicle
+Honda ,Honda Shine 125,2019,40000,110.0,Single,47800,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2024,135000,,Single,2000,Hyderabad,Telangana,Electrical_Vehicle
+Yamaha ,Yamaha YZF R15 V3 BS6,2022,125000,200.0,Single,41775,Shikohabad,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS iQube Electric,2025,120000,100.0,Single,3000,Hyderabad,Telangana,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V 2025,2025,120000,100.0,Single,6400,Mumbai,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha YZF R15,2022,120000,200.0,Single,14464,Chennai,Tamil Nadu,Manual_Vehicle
+Yamaha ,Yamaha FZS 25,2019,75000,200.0,Single,13329,BTM Layout,Karnataka,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2024,120000,,Single,9000,Kolkata,West Bengal,Electrical_Vehicle
+Honda ,Honda CB Hornet 160R ABS,2016,35000,110.0,Single,60000,Guindy,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2018,151000,340.0,Single,24649,Ameerpet,Telangana,Manual_Vehicle
+Yamaha ,Yamaha Aerox 155,2022,150000,200.0,Single,17684,Thane,Maharashtra,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2020,150000,110.0,Single,36000,Korea,Chhattisgarh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N160 Dual Channel ABS,2022,115000,160.0,Single,18000,Nadia,West Bengal,Manual_Vehicle
+Ola ,Ola S1X 4 kWh,2025,45000,,Single,5800,Jodhpur,Rajasthan,Electrical_Vehicle
+Hero ,Hero Splendor Plus IBS i3s,2017,45000,105.0,Single,16000,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda Dio Standard,2014,30000,110.0,Single,30000,Surat,Gujarat,Manual_Vehicle
+Hero ,Hero HF Deluxe BS6,2022,45000,105.0,Single,23000,Balramgarh,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 125,2022,70000,125.0,Single,20000,Chennai,Tamil Nadu,Manual_Vehicle
+Ola ,Ola S1X 4 kWh,2025,30000,,Single,4000,Kaithal,Haryana,Electrical_Vehicle
+Yamaha ,Yamaha FZ,2014,30000,200.0,Single,23000,Mumbai,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha RXZ,2002,120000,200.0,Single,23000,Irinjalakuda,Kerala,Manual_Vehicle
+Bajaj ,Bajaj V15,2016,28000,155.0,Single,20725,Gurgaon,Haryana,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS AllStar Black,2022,120000,300.0,Single,24000,Visakhapatnam,Andhra Pradesh,Manual_Vehicle
+Yamaha ,Yamaha MT-15,2020,90000,200.0,Single,31650,Varanasi,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Burgman Street,2025,60000,110.0,Single,1700,Charminar,Telangana,Manual_Vehicle
+TVS ,TVS Raider 125,2021,60000,100.0,Single,20150,Bhubaneshwar,Orissa,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2014,145000,340.0,Single,21000,Indore,Madhya Pradesh,Manual_Vehicle
+Hero ,Hero Electric Optima HX Dual Battery,2022,20000,105.0,Single,30000,Kolkata,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 200 NS,2013,34500,199.5,Multiple,29500,Gurgaon,Haryana,Manual_Vehicle
+Triumph ,Triumph Speed 400 2025,2025,205000,400.0,Single,4650,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Triumph ,Triumph Scrambler 400 X,2025,205000,400.0,Single,1500,Hyderabad,Telangana,Manual_Vehicle
+Jawa ,Jawa 350,2024,205000,300.0,Single,8225,Bangalore,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha Rajdoot,1972,75000,200.0,Single,23000,Sholinganallur,Tamil Nadu,Manual_Vehicle
+Kabira ,Kabira Mobility KM 4000,2023,30000,400.0,Single,10000,Chembur,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2017,30000,150.0,Single,25000,Andheri East,Maharashtra,Manual_Vehicle
+Aprilia ,Aprilia SR 160 Carbon ABS,2020,75000,160.0,Single,27572,Katni,Madhya Pradesh,Manual_Vehicle
+Ola ,Ola S1 X Plus Gen 3,2025,32000,,Single,5500,Telangana,Telangana,Electrical_Vehicle
+Hero ,Hero Duet 110,2017,32000,105.0,Single,43000,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero CBZ Xtreme,2014,40000,105.0,Single,47000,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar RS 200 ABS,2016,65000,200.0,Single,45340,Gurgaon,Haryana,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2021,190000,110.0,Single,18000,Aluva,Kerala,Manual_Vehicle
+Hero ,Hero Splendor Plus,2023,58000,105.0,Single,23000,Surat,Gujarat,Manual_Vehicle
+Benelli ,Benelli Imperiale 400,2021,140000,400.0,Single,20000,Electronic City,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Platina 100,2014,15000,100.0,Single,65226,Kanjhawala,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220 DTSi,2018,50000,220.0,Single,41000,Aurangabad,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 220,2017,50000,220.0,Single,30000,Kurla West,Maharashtra,Manual_Vehicle
+Hero ,Hero Passion XTec,2023,65000,105.0,Single,20000,Tirumalagiri,Telangana,Manual_Vehicle
+Honda ,Honda CB Trigger,2014,23000,110.0,Single,20000,Hyderabad,Telangana,Manual_Vehicle
+Ola ,Ola S1 Pro,2024,99000,,Single,9474,Bhubaneshwar,Orissa,Electrical_Vehicle
+Yamaha ,Yamaha FZ-S FI V3 BS6,2019,65000,200.0,Single,60000,Pune,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Himalayan 452,2024,300000,340.0,Single,7000,Guwahati,Assam,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2017,100000,340.0,Single,34168,Pune,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220 DTSi,2010,80000,220.0,Single,34000,Kolkata,West Bengal,Manual_Vehicle
+Ather ,Ather 450X,2022,55000,450.0,Single,58000,Kundara,Kerala,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2021,68000,160.0,Single,4300,Dombivli,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400,2023,190000,400.0,Single,4500,Jalandhar,Punjab,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2024,140000,200.0,Single,12000,Hyderabad,Telangana,Manual_Vehicle
+Suzuki ,Suzuki Access 125,2017,35000,110.0,Single,82048,Bangalore,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha FZ25,2017,80000,200.0,Single,130000,Bangalore,Karnataka,Manual_Vehicle
+Honda ,Honda Dream Yuga,2014,30000,110.0,Single,40000,Tiruchirappalli,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Scooty Pep,2012,13000,100.0,Single,41276,Hadapsar,Maharashtra,Manual_Vehicle
+Hero ,Hero Maestro,2015,19000,105.0,Single,30000,Ernakulam,Kerala,Manual_Vehicle
+Ather ,Ather Rizta S,2024,105000,,Single,5000,Gir Somnath,Gujarat,Manual_Vehicle
+Royal ,Royal Enfield Bullet Standard 350,2016,135000,340.0,Single,30200,Yellareddy,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Avenger 220 DTS-i,2016,60000,220.0,Single,29000,Tikamgarh,Madhya Pradesh,Manual_Vehicle
+TVS ,TVS Jupiter ZX,2017,34999,100.0,Single,33535,Delhi Cantonment,Delhi,Manual_Vehicle
+TVS ,TVS Ronin TD,2023,140000,100.0,Single,21000,Pune,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2017,55000,150.0,Single,54104,Marathahalli,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha MT-15 BS6,2024,175000,200.0,Single,33000,Tirunelveli,Tamil Nadu,Manual_Vehicle
+Bajaj ,Bajaj Dominar 250,2020,120000,250.0,Single,9500,Sanwer,Madhya Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2012,115000,340.0,Single,70000,Vijayawada,Andhra Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Himalayan 452,2021,200000,340.0,Single,3300,Jogeshwari,Maharashtra,Manual_Vehicle
+Husqvarna ,Husqvarna Svartpilen 250,2020,150000,250.0,Single,40400,Bangalore,Karnataka,Manual_Vehicle
+KOMAKI ,KOMAKI XGT X5,2025,120000,,Single,25,Nizamabad,Telangana,Manual_Vehicle
+Jawa ,Jawa Perak,2020,120000,300.0,Single,6100,Bhopal,Madhya Pradesh,Manual_Vehicle
+TVS ,TVS Jupiter Classic BS6,2023,70000,100.0,Single,4950,Nagod,Madhya Pradesh,Manual_Vehicle
+Triumph ,Triumph Speed 400 2025,2025,65000,400.0,Single,7000,Zirakpur,Punjab,Manual_Vehicle
+Hero ,Hero Glamour Xtec,2021,65000,105.0,Single,16000,Bokaro,Jharkhand,Manual_Vehicle
+Yamaha ,Yamaha FZ-X,2024,145000,200.0,Single,7000,Ranchi,Jharkhand,Manual_Vehicle
+Okinawa ,Okinawa Praise Pro,2022,35000,,Single,24000,Gaya,Bihar,Manual_Vehicle
+Honda ,Honda CB Unicorn,2016,60000,110.0,Single,103200,Surat,Gujarat,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,185000,340.0,Single,3300,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda Activa 4G,2017,35000,110.0,Single,49700,Kolkata,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N160 Dual Channel ABS,2023,130000,160.0,Single,12300,Marathahalli,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha FZS 25 BS6,2021,120000,200.0,Single,40000,Navi Mumbai,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 125,2023,80000,110.0,Single,6500,Chennai,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Maestro Edge 110 BS6,2017,38000,105.0,Single,29100,Pune,Maharashtra,Manual_Vehicle
+TVS ,TVS Jupiter ZX,2022,70000,100.0,Single,6500,New Delhi,Delhi,Manual_Vehicle
+Honda ,Honda 2023 Activa 125 Disc,2023,80000,110.0,Single,12000,Thane,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Hayate,2012,10000,110.0,Single,52501,West Delhi,Delhi,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2017,55000,100.0,Single,39000,Darbhanga,Bihar,Manual_Vehicle
+Suzuki ,Suzuki Access 125 BS6,2018,130000,110.0,Single,80000,Surat,Gujarat,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI Ver 4.0 DLX,2024,130000,200.0,Single,5500,Silvassa,Dadra Nagar Haveli,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350,2021,170000,340.0,Single,30000,Mubarakpur,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,200000,340.0,Single,5500,Dharwad,Karnataka,Manual_Vehicle
+Jawa ,Jawa 42 FJ,2024,180000,300.0,Single,3000,New Delhi,Delhi,Manual_Vehicle
+Honda ,Honda Activa 125,2016,29000,110.0,Multiple,23000,Mayur Vihar,Delhi,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650,2025,10000,340.0,Single,1012,Bokaro,Jharkhand,Manual_Vehicle
+Suzuki ,Suzuki Burgman Street BS6,2022,10000,110.0,Single,14600,Mumbai,Maharashtra,Manual_Vehicle
+Mahindra ,Mahindra Flyte,2012,10000,125.0,Single,5000,Marredpally,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Avenger 220 DTS-i,2015,40000,220.0,Single,56000,Mysore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 125 Neon BS6,2020,60000,125.0,Single,28800,Dankuni,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 200 NS,2017,75000,200.0,Single,88000,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda Activa DLX Limited Edition,2024,75000,110.0,Single,7046,Egmore,Tamil Nadu,Manual_Vehicle
+BMW ,BMW G 310 R,2019,200000,310.0,Single,5100,Thane,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V2,2016,50000,200.0,Single,20000,Bhubaneshwar,Orissa,Manual_Vehicle
+TVS ,TVS Zest 110 Gloss Series,2015,20000,100.0,Single,40000,Berhampore,West Bengal,Manual_Vehicle
+Hero ,Hero Passion Plus 2023,2023,75000,105.0,Single,4800,Thrissur,Kerala,Manual_Vehicle
+Yamaha ,Yamaha Fazer FI V2,2016,40000,150.0,Single,78000,Bandra East,Maharashtra,Manual_Vehicle
+TVS ,TVS NTORQ 125 XT,2023,110000,100.0,Single,6300,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 125,2023,80000,125.0,Single,17500,Hebbal,Karnataka,Manual_Vehicle
+Jawa ,Jawa forty two BS6,2020,129000,300.0,Single,8700,Rewari,Haryana,Manual_Vehicle
+TVS ,TVS Sport,2014,18000,100.0,Single,50000,Siswa Bazar,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Glamour Xtec,2022,38000,105.0,Single,20000,Kanchipuram,Tamil Nadu,Manual_Vehicle
+Suzuki ,Suzuki Gixxer 150,2015,38000,110.0,Single,59500,Navi Mumbai,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 160 2025,2025,80000,100.0,Single,1700,Madhepura,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160 BS6,2023,80000,160.0,Single,20000,Bandra,Maharashtra,Manual_Vehicle
+Honda ,Honda CB Trigger,2014,30000,110.0,Single,26000,Nakur,Uttar Pradesh,Manual_Vehicle
+KTM ,KTM 390 Adventure,2020,280000,390.0,Single,20000,Bangalore,Karnataka,Manual_Vehicle
+Vespa ,Vespa SXL 125,2022,125000,125.0,Single,10400,Pune,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha SZ-RR V2,2016,35000,200.0,Single,18997,Kanchrapara,West Bengal,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V BS6,2020,100000,100.0,Single,2800,Kanchrapara,West Bengal,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2024,205000,110.0,Single,4900,Ahmedabad,Gujarat,Manual_Vehicle
+TVS ,TVS Raider 125,2022,62000,100.0,Single,45000,Valapady,Tamil Nadu,Manual_Vehicle
+KTM ,KTM Duke 390,2016,135000,390.0,Single,26500,Yelahanka,Karnataka,Manual_Vehicle
+Ola ,Ola S1 X Gen 3 2kWh,2025,28000,,Single,60,Rewari,Haryana,Electrical_Vehicle
+Yamaha ,Yamaha Fazer FI V2,2014,28000,150.0,Single,82043,Vikhroli,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Burgman Street Standard Edition 2025,2025,44500,110.0,Single,23000,Mumbai,Maharashtra,Manual_Vehicle
+TVS ,TVS Sport BS6,2021,44500,100.0,Single,18246,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Hunk,2010,70000,105.0,Single,25000,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa i,2014,20000,110.0,Single,36000,Gorakhpur,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Classic Signals Airborne Blue,2023,195000,340.0,Single,14000,Mysore,Karnataka,Manual_Vehicle
+TVS ,TVS Scooty Pep Plus,2018,29999,100.0,Multiple,14037,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Discover 125M,2014,35000,125.0,Single,63400,KR Puram,Karnataka,Manual_Vehicle
+Honda ,Honda Activa,2011,32000,110.0,Single,25000,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Glamour BS6,2021,65000,105.0,Single,13500,Saharsa,Bihar,Manual_Vehicle
+Ather ,Ather 450X,2023,110000,450.0,Single,27000,Chennai,Tamil Nadu,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 180 DTSi,2016,45000,180.0,Single,10816,Sitamarhi,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400 ABS BS6,2022,180000,373.9,Single,32000,Ramgarh,Jharkhand,Manual_Vehicle
+TVS ,TVS Victor,2017,36000,100.0,Single,78000,Hindupur,Andhra Pradesh,Manual_Vehicle
+Hero ,Hero Glamour 125 Drum,2011,40000,105.0,Single,33000,Kolkata,West Bengal,Manual_Vehicle
+Suzuki ,Suzuki Access 125 Bluetooth Enabled,2021,60000,110.0,Single,61000,Mathili,Orissa,Manual_Vehicle
+TVS ,TVS Raider SX,2024,110000,100.0,Single,17900,Surat,Gujarat,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2024,100000,,Single,34000,Athani,Karnataka,Electrical_Vehicle
+Harley ,Harley Davidson Street 750,2014,192000,440.0,Multiple,12400,Madurai,Tamil Nadu,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF BS6,2022,90000,110.0,Single,21600,Gooty,Andhra Pradesh,Manual_Vehicle
+Honda ,Honda Activa 5G,2018,45000,110.0,Single,32405,Patna,Bihar,Manual_Vehicle
+Royal ,Royal Enfield Bullet Electra,2021,145000,340.0,Single,42500,Kumta,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N160,2024,140000,160.0,Single,10660,Chiplun,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V2,2019,65000,200.0,Single,33000,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Discover DTSi 125,2018,30000,125.0,Single,40000,Madhubani,Bihar,Manual_Vehicle
+Royal ,Royal Enfield Classic 500,2016,95000,340.0,Single,17000,Ranchi,Jharkhand,Manual_Vehicle
+TVS ,TVS Scooty Pep Plus,2021,30000,100.0,Single,10000,Didwana-Kuchaman,Rajasthan,Manual_Vehicle
+Honda ,Honda Shine 125,2022,65000,110.0,Single,14500,Saharanpur,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Activa 6G,2021,51000,110.0,Single,16000,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2023,145000,200.0,Single,20000,Kakinada,Andhra Pradesh,Manual_Vehicle
+TVS ,TVS Sport,2019,30000,100.0,Single,40000,Udaipur,Rajasthan,Manual_Vehicle
+TVS ,TVS Apache RTR 200 4V ABS Race Edition 2.0,2019,60000,100.0,Single,27000,Parel,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 160,2021,85000,160.0,Single,64500,Ameerpet,Telangana,Manual_Vehicle
+Yamaha ,Yamaha Saluto 125,2016,32000,200.0,Single,45000,Bannerghatta Road,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Himalayan,2021,210000,340.0,Single,28000,Beed,Maharashtra,Manual_Vehicle
+BMW ,BMW G 310 R,2020,200000,310.0,Single,14582,Bellary,Karnataka,Manual_Vehicle
+TVS ,TVS Apache RTR 200 4V,2019,60000,100.0,Single,51000,Ambattur,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Classic Signals Airborne Blue,2019,169000,340.0,Single,37000,KR Puram,Karnataka,Manual_Vehicle
+Honda ,Honda CB300F Deluxe Pro,2023,135000,110.0,Single,6700,Delhi,Delhi,Manual_Vehicle
+Yamaha ,Yamaha RX 135,1997,40000,200.0,Single,23000,Lucknow,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 S,2018,80000,200.0,Single,52400,Tamil Nadu,Tamil Nadu,Manual_Vehicle
+Jawa ,Jawa forty two BS6,2020,145000,300.0,Single,19000,Pune,Maharashtra,Manual_Vehicle
+Honda ,Honda Shine 125 Drum,2020,65000,110.0,Single,6000,Palghar,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha MT-15 BS6,2024,175000,200.0,Single,24700,Mysore,Karnataka,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF,2016,30000,110.0,Single,35000,Thane,Maharashtra,Manual_Vehicle
+Ola ,Ola S1 Pro,2022,90000,,Single,29000,Alwar,Rajasthan,Electrical_Vehicle
+Hero ,Hero Passion X Pro,2019,30000,105.0,Single,80000,New Delhi,Delhi,Manual_Vehicle
+Honda ,Honda Activa,2011,15000,110.0,Single,150000,Thodupuzha,Kerala,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2025,80000,340.0,Single,8500,Nandakumar,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 160,2023,80000,160.0,Single,43000,Muradnagar,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V BS6,2020,69000,100.0,Single,69000,Tirupati,Andhra Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Classic 350 Dual Channel BS6,2022,150000,340.0,Single,25000,Guwahati,Assam,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2019,55000,160.0,Single,6700,Shaikpet,Telangana,Manual_Vehicle
+Suzuki ,Suzuki V-Strom 650XT ABS BS6,2022,650000,110.0,Single,3000,Nilambur,Kerala,Manual_Vehicle
+Bajaj ,Bajaj Platina 100 ES BS6,2022,45000,100.0,Single,58700,Hisar,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650,2023,340000,340.0,Single,6500,Secunderabad,Telangana,Manual_Vehicle
+Honda ,Honda Livo 110,2019,35000,110.0,Single,55000,Bhiwadi,Rajasthan,Manual_Vehicle
+TVS ,TVS Apache RR 310,2023,220000,100.0,Single,1625,Bhagalpur,Bihar,Manual_Vehicle
+KTM ,KTM Duke 250,2023,170000,250.0,Multiple,5002,Pataudi,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Avenger Cruise 220,2015,48500,220.0,Single,65120,Electronic City,Karnataka,Manual_Vehicle
+Honda ,Honda CB Shine,2017,40000,110.0,Single,56900,Lucknow,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2016,129999,340.0,Single,35000,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Glamour BS6,2020,52000,105.0,Single,35000,Araria,Bihar,Manual_Vehicle
+Bajaj ,Bajaj V12,2020,35000,124.0,Single,50000,Huzur,Madhya Pradesh,Manual_Vehicle
+Honda ,Honda CB300F,2024,160000,110.0,Single,5850,Trivandrum,Kerala,Manual_Vehicle
+Benelli ,Benelli Imperiale 400,2022,160000,400.0,Single,16000,Hyderabad,Telangana,Manual_Vehicle
+Benelli ,Benelli TRK 502X,2021,500000,400.0,Single,60000,Bahadurpura,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Chetak Premium,2021,65000,,Single,39600,Pimpri-Chinchwad,Maharashtra,Electrical_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS AllStar Black,2022,170000,300.0,Single,17000,Varanasi,Uttar Pradesh,Manual_Vehicle
+Bicycle ,Bicycle Keysto,2023,70000,,Single,23000,Gautam Buddha Nagar,Uttar Pradesh,Electrical_Vehicle
+Hero ,Hero Splendor Plus Xtec,2023,70000,105.0,Single,20857,Hyderabad,Telangana,Manual_Vehicle
+Ather ,Ather 450X Gen 3,2025,195000,450.0,Single,4339,Secunderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2022,195000,340.0,Single,15417,Patna,Bihar,Manual_Vehicle
+BSA ,BSA Gold Star 650,2024,190000,650.0,Single,230,Whitefield,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha R15M,2024,190000,200.0,Single,6300,Navi Mumbai,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Freedom 125 NG04 Drum LED,2024,95000,125.0,Single,4500,New Delhi,Delhi,Manual_Vehicle
+Honda ,Honda CBR 250R,2011,45000,110.0,Single,100100,Bangalore,Karnataka,Manual_Vehicle
+Honda ,Honda Activa,2011,20000,110.0,Single,39500,Lucknow,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Fireball,2023,178000,340.0,Single,15200,Cuttack,Orissa,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400 ABS BS6,2022,148000,373.0,Single,48000,Rajajinagar,Karnataka,Manual_Vehicle
+TVS ,TVS Star City Plus BS VI,2022,51000,100.0,Single,29000,Kolkata,West Bengal,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS Cosmic Carbon,2023,155000,300.0,Single,15000,Hoskote,Karnataka,Manual_Vehicle
+Hero ,Hero CBZ Xtreme,2011,40000,105.0,Single,49000,Hebbal,Karnataka,Manual_Vehicle
+Honda ,Honda Activa 5G,2023,35000,110.0,Single,23000,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda CB Shine SP,2014,35000,110.0,Single,40000,Alandur,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Bullet Electra,2014,97000,340.0,Single,54000,Jammu,Jammu Kashmir,Manual_Vehicle
+Harley ,Harley Davidson Street 750,2015,200001,440.0,Single,17000,Navi Mumbai,Maharashtra,Manual_Vehicle
+Honda ,Honda CB Trigger,2014,33000,110.0,Single,28441,Mumbai,Maharashtra,Manual_Vehicle
+Triumph ,Triumph Speed 400 2025,2025,80000,398.0,Single,550,Malad,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Classic 500,2011,80000,340.0,Multiple,36000,West Delhi,Delhi,Manual_Vehicle
+Honda ,Honda Activa 6G Std,2023,65000,110.0,Single,40000,Kolkata,West Bengal,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650,2021,295000,340.0,Multiple,13650,Noida,Uttar Pradesh,Manual_Vehicle
+KTM ,KTM 250 Adventure 2021,2021,140000,250.0,Single,36000,Warangal,Telangana,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS AllStar Black,2021,120000,300.0,Multiple,42000,New Delhi,Delhi,Manual_Vehicle
+Honda ,Honda CD 110 Dream,2019,140000,110.0,Single,35000,Tirumalagiri,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N150,2023,140000,150.0,Single,12000,Hyderabad,Telangana,Manual_Vehicle
+Honda ,Honda Hness Anniversary Edition,2022,180000,110.0,Single,16000,Pune,Maharashtra,Manual_Vehicle
+Honda ,Honda CB Shine SP,2017,29999,110.0,Single,46000,Khagaria,Bihar,Manual_Vehicle
+TVS ,TVS Apache RTR 180,2018,60000,100.0,Single,61000,Bhota,Himachal Pradesh,Manual_Vehicle
+Hero ,Hero Glamour 125 Disc,2021,55000,105.0,Single,46500,Bijepur,Orissa,Manual_Vehicle
+Yamaha ,Yamaha R15 V4,2023,150000,200.0,Single,25000,Aurangabad,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V3 BS6,2021,80000,200.0,Single,32520,Hyderabad,Telangana,Manual_Vehicle
+Yamaha ,Yamaha Fascino,2016,30000,200.0,Single,20000,Kolhapur,Maharashtra,Manual_Vehicle
+KTM ,KTM RC 200,2018,125000,200.0,Single,26000,HSR Layout,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha Fazer 25,2018,55000,200.0,Single,53477,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Kawasaki ,Kawasaki Ninja 300 BS6,2018,265000,300.0,Single,9300,Banashankari,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2017,35000,150.0,Multiple,40000,Ahmedabad,Gujarat,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,165000,340.0,Single,8100,New Delhi,Delhi,Manual_Vehicle
+Hero ,Hero Maestro Edge,2018,30000,105.0,Single,55000,Hyderabad,Telangana,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V2,2017,60000,200.0,Single,33000,Shaikpet,Telangana,Manual_Vehicle
+Honda ,Honda CB Shine,2010,30000,110.0,Single,65000,Velachery,Tamil Nadu,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS Cosmic Carbon,2023,120000,300.0,Single,24000,Gautam Buddha Nagar,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Maestro Edge,2018,15000,105.0,Single,30000,Mohanlalganj,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 135LS,2011,18000,340.0,Single,96573,Kolkata,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160 BS6,2023,100000,160.0,Single,22000,Dombivli,Maharashtra,Manual_Vehicle
+Honda ,Honda CB Unicorn,2019,70000,110.0,Single,26000,Hadapsar,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2020,60000,100.0,Single,60000,Udaipur,Rajasthan,Manual_Vehicle
+Bajaj ,Bajaj Pulsar F250,2022,140000,250.0,Single,28715,Udupi,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 180,2019,55000,180.0,Single,38000,Kalyan,Maharashtra,Manual_Vehicle
+Hero ,Hero XPulse,2019,80000,105.0,Single,6000,Chembur,Maharashtra,Manual_Vehicle
+Hero ,Hero Xpulse 200 4V,2022,95000,105.0,Single,9300,South West Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Discover 100,2013,135000,100.0,Single,23000,New Delhi,Delhi,Manual_Vehicle
+Kawasaki ,Kawasaki Z250,2015,135000,249.0,Single,21230,Tambaram,Tamil Nadu,Manual_Vehicle
+Arrow ,Arrow EV Vespar Round Light,2012,51990,,Single,20000,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero Achiever,2019,51990,105.0,Single,50000,Pipalda,Rajasthan,Manual_Vehicle
+TVS ,TVS NTORQ 125 Race XP,2023,60000,100.0,Single,40000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2016,90000,340.0,Single,6900,Indore,Madhya Pradesh,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V BS6,2022,95000,100.0,Single,32800,Gonda,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2020,225000,340.0,Single,8000,Bangalore,Karnataka,Manual_Vehicle
+TVS ,TVS NTORQ 125,2022,60000,100.0,Single,32000,Shahdara,Delhi,Manual_Vehicle
+Yamaha ,Yamaha FZ25,2018,50000,200.0,Single,18900,Dadar,Maharashtra,Manual_Vehicle
+BMW ,BMW G 310 RR,2023,260000,310.0,Single,2957,Bhubaneshwar,Orissa,Manual_Vehicle
+Hero ,Hero Pleasure Plus Platinum,2021,48000,105.0,Single,62000,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Activa 5G Limited Edition,2019,40000,110.0,Single,50000,Balugaon,Orissa,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2020,235000,340.0,Single,6350,Chanakyapuri,Delhi,Manual_Vehicle
+Honda ,Honda Activa,2013,15000,110.0,Single,23000,Wakad,Maharashtra,Manual_Vehicle
+Ola ,Ola S1X Plus,2024,60000,,Single,7800,Badlapur,Maharashtra,Electrical_Vehicle
+Yamaha ,Yamaha Ray ZR 125 Fi Hybrid,2024,85000,200.0,Single,8500,Mayur Vihar,Delhi,Manual_Vehicle
+Honda ,Honda CD 110 Dream,2019,40000,110.0,Single,56000,Uklana Mandi,Haryana,Manual_Vehicle
+Aprilia ,Aprilia SR 125,2019,45000,125.0,Single,40000,Kolkata,West Bengal,Manual_Vehicle
+Honda ,Honda SP 125 BSVI,2023,80000,110.0,Single,20000,Agra,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Shine 125 Disc,2022,60000,110.0,Single,50000,Vasundhara,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero XPulse 200T,2019,60000,105.0,Single,65000,Tiruvannamalai,Tamil Nadu,Manual_Vehicle
+Ola ,Ola S1X Plus,2024,76000,,Single,750,Thane,Maharashtra,Electrical_Vehicle
+Revolt ,Revolt RV 400,2024,100000,400.0,Single,2500,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2016,35000,150.0,Single,27000,Bokaro,Jharkhand,Manual_Vehicle
+Royal ,Royal Enfield Super Meteor 650,2024,450000,340.0,Single,2800,Hubballi,Karnataka,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2022,165000,340.0,Single,12460,Rewari,Haryana,Manual_Vehicle
+Honda ,Honda CB350RS,2022,195000,110.0,Single,3100,Bangalore,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha R15M,2023,150000,200.0,Single,9500,Hoshangabad,Madhya Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2024,340000,340.0,Single,9020,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Freedom 125 NG04 Disc LED,2025,40000,125.0,Single,6000,Junagadh,Gujarat,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2013,40000,200.0,Single,49500,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+TVS ,TVS Raider Split Seat,2021,65000,100.0,Single,36000,Domjur,West Bengal,Manual_Vehicle
+Honda ,Honda Shine 125 Drum OBD2,2022,59999,110.0,Single,35000,Bahadurpura,Telangana,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V2,2015,22000,200.0,Single,60433,Delhi Cantonment,Delhi,Manual_Vehicle
+TVS ,TVS Apache RTR 160,2017,40000,100.0,Single,49000,Shaikpet,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Chetak Premium,2024,120000,,Single,9000,Indore,Madhya Pradesh,Electrical_Vehicle
+TVS ,TVS Jupiter,2020,40000,100.0,Single,17779,Noida,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2016,95000,340.0,Single,40900,Delhi Cantonment,Delhi,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 S,2018,45000,200.0,Single,18000,Kanpur,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Achiever,2017,45000,105.0,Single,35000,Asansol,West Bengal,Manual_Vehicle
+Honda ,Honda Unicorn,2011,20000,110.0,Single,58000,Chennai,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2022,170000,340.0,Single,9900,Anna Nagar,Tamil Nadu,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 125,2024,95000,125.0,Single,5000,Jamui,Bihar,Manual_Vehicle
+TVS ,TVS Victor Premium Edition,2020,38000,100.0,Single,24500,Sambhal,Uttar Pradesh,Manual_Vehicle
+Jawa ,Jawa forty two,2023,170000,300.0,Single,14000,Hosapete,Karnataka,Manual_Vehicle
+Honda ,Honda Activa 125,2017,35000,110.0,Single,56400,Bannerghatta Road,Karnataka,Manual_Vehicle
+KTM ,KTM Duke 200,2016,85000,200.0,Single,62000,Nashik,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Chetak Electric,2024,80000,,Single,350,Ameerpet,Telangana,Electrical_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS Orion Red,2021,135000,300.0,Single,27500,South 24 Parganas,West Bengal,Manual_Vehicle
+Yamaha ,Yamaha FZ FI V3 BS6,2019,74000,200.0,Single,25000,Pune,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Bullet 350,1982,125000,340.0,Multiple,18000,Ranni,Kerala,Manual_Vehicle
+Honda ,Honda Shine 125,2009,20000,110.0,Single,65000,Bhavani,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Activa,2016,40000,110.0,Single,23000,Ulhasnagar,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V3 BS6,2020,75000,200.0,Single,45000,Mulund West,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2014,85000,340.0,Single,42000,New Delhi,Delhi,Manual_Vehicle
+Hero ,Hero Glamour 125 Disc,2018,50000,105.0,Single,40000,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+KTM ,KTM RC 200,2019,130000,200.0,Single,12840,Pune,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ FI V2,2018,60000,200.0,Single,30000,Kherki Daula,Haryana,Manual_Vehicle
+Hero ,Hero Duet 125,2019,20000,105.0,Single,17400,Gurgaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Bullet 350 ES BS6,2021,130000,340.0,Single,34000,Sanganer,Rajasthan,Manual_Vehicle
+Honda ,Honda CB Twister,2010,245000,110.0,Single,26944,Sarjapur Road,Karnataka,Manual_Vehicle
+TVS ,TVS Apache RR 310,2023,245000,100.0,Single,14000,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 5G,2020,55000,110.0,Single,26300,New Delhi,Delhi,Manual_Vehicle
+Yamaha ,Yamaha FZS 25,2021,102000,200.0,Single,15000,Tirupur,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Super Meteor 650,2023,390000,340.0,Single,1790,Noida,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS Apache RR 310,2023,210000,100.0,Single,6100,Gurgaon,Haryana,Manual_Vehicle
+Hero ,Hero Duet 110,2016,43500,105.0,Single,13000,Bangalore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Super Meteor 650,2024,410000,340.0,Single,2664,Amravati,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Swish,2014,30000,110.0,Single,17666,Pune,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2021,165000,340.0,Single,3500,Dwarka,Delhi,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2023,185000,340.0,Single,11000,Shaikpet,Telangana,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2012,25000,200.0,Single,51000,Hyderabad,Telangana,Manual_Vehicle
+Simple ,Simple Energy One 2025,2025,60000,202.0,Single,1560,Bangalore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird TwinSpark 350,2011,60000,340.0,Single,65000,Pune,Maharashtra,Manual_Vehicle
+TVS ,TVS Scooty Streak,2013,20000,100.0,Single,19555,Chennai,Tamil Nadu,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2012,25000,150.0,Single,60660,Secunderabad,Telangana,Manual_Vehicle
+Honda ,Honda CB Shine,2015,30000,110.0,Single,116000,Bisalpur,Uttar Pradesh,Manual_Vehicle
+KOMAKI ,KOMAKI XGT X5,2025,185000,,Single,300,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Fireball,2023,185000,340.0,Single,5300,Vadodara,Gujarat,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2017,190000,200.0,Single,15000,Whitefield,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Supernova,2024,190000,340.0,Single,7450,Daulatpur Chowk,Himachal Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS125 BS6,2023,70000,125.0,Single,22000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Super Meteor 650,2025,45000,340.0,Single,2000,Jammu,Jammu Kashmir,Manual_Vehicle
+Bajaj ,Bajaj Pulsar AS 200,2015,45000,200.0,Single,25500,Allahabad,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,175000,340.0,Single,21875,Hagaribommanahalli,Karnataka,Manual_Vehicle
+Kawasaki ,Kawasaki W175 Street,2022,175000,177.0,Single,8500,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400,2018,175000,400.0,Single,36000,Rajajinagar,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS125 BS6,2022,75000,125.0,Single,32000,Nashik,Maharashtra,Manual_Vehicle
+Jawa ,Jawa 42 Bobber Red Sheen,2023,189000,300.0,Single,2000,Alandur,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Hness Anniversary Edition,2022,175000,110.0,Single,3000,Dahisar,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Avenis 125 Ride Connect Edition,2022,65000,110.0,Single,13000,Dehradun,Utarakhand,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF,2016,42000,110.0,Single,63500,Bhiwandi,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2018,62000,100.0,Single,45000,Kolkata,West Bengal,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V BS6,2021,90000,100.0,Single,19500,Medchal,Telangana,Manual_Vehicle
+Hero ,Hero Xtreme 160R,2020,75000,105.0,Single,21000,Ludhiana,Punjab,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400 Disc,2017,89000,400.0,Single,73112,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha FZ-S,2011,20000,200.0,Single,25000,Mumbai,Maharashtra,Manual_Vehicle
+Hero ,Hero Pleasure,2014,22000,105.0,Single,40000,Alwar,Rajasthan,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,185000,340.0,Single,5456,Bhuj,Gujarat,Manual_Vehicle
+Honda ,Honda Aviator,2012,18000,110.0,Single,65000,Banashankari,Karnataka,Manual_Vehicle
+Hero ,Hero Maestro Edge 110 BS6,2016,36000,105.0,Single,38000,Bangalore,Karnataka,Manual_Vehicle
+KTM ,KTM Duke 200,2016,100000,200.0,Single,6000,Indore,Madhya Pradesh,Manual_Vehicle
+Honda ,Honda Hness CB 350,2022,170000,110.0,Single,14200,Kanpur,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS NTORQ 125 Race Edition BS6,2024,93000,100.0,Single,5200,Indiranagar,Karnataka,Manual_Vehicle
+Ola ,Ola S1,2022,70000,,Single,20000,Nagpur,Maharashtra,Electrical_Vehicle
+Yamaha ,Yamaha R15 V4,2025,120000,200.0,Single,2000,Chengalpattu,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V 2024,2024,120000,100.0,Single,18000,Lucknow,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2018,100000,340.0,Single,19000,Khairatabad,Telangana,Manual_Vehicle
+Hero ,Hero Passion X Pro,2013,30000,105.0,Single,32000,Dadar,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI Ver 4.0,2023,115000,200.0,Single,20000,Gurgaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650,2022,315000,340.0,Single,7800,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+KTM ,KTM RC 200,2019,100000,200.0,Single,20000,Itwa,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2015,95000,340.0,Single,11420,Maharashtra,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2024,172999,340.0,Single,5000,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Karizma XMR,2024,175000,105.0,Single,950,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2019,290000,340.0,Single,7200,HSR Layout,Karnataka,Manual_Vehicle
+Aprilia ,Aprilia SR 150,2016,35000,150.0,Single,42000,Proddatur,Andhra Pradesh,Manual_Vehicle
+TVS ,TVS Jupiter ZX Disc BS6,2020,50000,100.0,Single,47000,Kurla,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2017,100000,340.0,Single,23000,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Hero ,Hero Glamour Xtec,2023,65000,105.0,Single,10250,Noida,Uttar Pradesh,Manual_Vehicle
+Ola ,Ola S1X 4 kWh,2025,12000,,Single,3500,Jaipur,Rajasthan,Electrical_Vehicle
+Honda ,Honda Activa,2011,12000,110.0,Single,50000,Tirumalagiri,Telangana,Manual_Vehicle
+Jawa ,Jawa 350,2024,185000,300.0,Single,6000,Hadapsar,Maharashtra,Manual_Vehicle
+TVS ,TVS iQube S,2024,100000,100.0,Single,20000,Sanganer,Rajasthan,Manual_Vehicle
+Royal ,Royal Enfield Super Meteor 650,2024,22000,340.0,Single,5400,Alandur,Tamil Nadu,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS125 2022,2022,22000,202.0,Single,75000,West Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N150,2023,100000,150.0,Single,18500,Amberpet,Telangana,Manual_Vehicle
+Honda ,Honda Activa 3G,2015,22000,110.0,Single,58681,Agra,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha FZ16,2014,30000,200.0,Multiple,70000,Bangalore,Karnataka,Manual_Vehicle
+Honda ,Honda CB Twister,2011,20000,110.0,Single,50000,Rewa,Madhya Pradesh,Manual_Vehicle
+Royal ,Royal Enfield 2023 Continental GT 650,2023,325000,340.0,Single,4850,Solapur,Maharashtra,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2023,85000,,Single,19000,New Delhi,Delhi,Electrical_Vehicle
+Triumph ,Triumph Speed 400 2025,2025,132500,400.0,Single,3000,Mumbai,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha MT-15 BS6,2022,132500,200.0,Single,48000,Panipat,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150,2015,32000,150.0,Single,61540,Dhanbad,Jharkhand,Manual_Vehicle
+Bajaj ,Bajaj Avenger 220 DTS-i,2012,40000,220.0,Single,54000,Nashik,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa,2011,15000,110.0,Single,200000,Chennai,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Passion Pro,2015,35000,105.0,Single,35000,Navsari,Gujarat,Manual_Vehicle
+Ola ,Ola S1 Air,2023,95000,,Single,2000,Trivandrum,Kerala,Electrical_Vehicle
+Royal ,Royal Enfield Bullet Standard 350,2016,85000,340.0,Single,3500,Attingal,Kerala,Manual_Vehicle
+Honda ,Honda Activa e,2025,160000,110.0,Single,16,Bangalore,Karnataka,Manual_Vehicle
+Jawa ,Jawa 42 Bobber Dual Channel ABS,2023,160000,300.0,Single,13500,Ambattur,Tamil Nadu,Manual_Vehicle
+Revolt ,Revolt RV 400,2020,60000,400.0,Single,66000,Ameerpet,Telangana,Manual_Vehicle
+Hero ,Hero Xtreme 250R,2025,130000,105.0,Single,75,Banashankari,Karnataka,Manual_Vehicle
+KTM ,KTM Duke,2017,130000,,Single,15000,Chennai,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 500,2014,90000,340.0,Single,2000,Noida,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF 250 BS6,2021,160000,110.0,Single,17000,Lucknow,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2012,35000,150.0,Single,36000,Darbhanga,Bihar,Manual_Vehicle
+Jawa ,Jawa forty two BS6,2022,145000,300.0,Single,2300,Ambala,Haryana,Manual_Vehicle
+TVS ,TVS Raider Split Seat,2024,90000,100.0,Single,7000,Bansgaon,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2023,210000,110.0,Single,20300,Mangalore,Karnataka,Manual_Vehicle
+Hero ,Hero HF Deluxe,2019,25000,105.0,Single,47500,Agra,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Interceptor 650 Twin,2019,260000,340.0,Single,7300,Bellandur,Karnataka,Manual_Vehicle
+Honda ,Honda CB Unicorn,2014,45000,110.0,Single,80000,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Glamour BS6,2022,75000,105.0,Single,2250,Kolkata,West Bengal,Manual_Vehicle
+Suzuki ,Suzuki Swish,2017,35000,110.0,Multiple,23000,Bangalore,Karnataka,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2022,200000,340.0,Single,10980,Sikar,Rajasthan,Manual_Vehicle
+Royal ,Royal Enfield Bullet Electra Twinspark,2015,85500,340.0,Multiple,52009,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2023,175000,340.0,Single,16500,T. Nagar,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Apache RTR 200 4V,2016,60000,100.0,Single,90000,Noida,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650 Twin,2024,340000,340.0,Single,8900,Zirakpur,Punjab,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2020,70000,160.0,Single,55000,Erich,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Access 125,2017,35000,110.0,Single,34000,West Delhi,Delhi,Manual_Vehicle
+Honda ,Honda Activa 5G Limited Edition,2019,60000,110.0,Single,38500,Mumbai,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 6G,2022,55000,110.0,Single,14000,Kompally,Telangana,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 V3,2019,125000,200.0,Single,36000,Shimoga,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 250,2021,100000,250.0,Single,9000,Dharwad,Karnataka,Manual_Vehicle
+KTM ,KTM Duke 200,2015,120000,200.0,Single,40000,KR Puram,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Scram 411,2023,180000,340.0,Single,12500,Mumbai,Maharashtra,Manual_Vehicle
+Harley ,Harley Davidson Heritage Classic,2022,1900000,440.0,Single,19000,Barnala,Punjab,Manual_Vehicle
+TVS ,TVS Sport,2014,20000,100.0,Single,27912,Margao,Goa,Manual_Vehicle
+Honda ,Honda CB Trigger,2014,35000,110.0,Single,65000,Phaltan,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha MT-15 BS6,2022,99999,200.0,Single,11000,Raigarh,Chhattisgarh,Manual_Vehicle
+Husqvarna ,Husqvarna Svartpilen 250,2020,130000,250.0,Single,17000,Vijayawada,Andhra Pradesh,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2022,169999,340.0,Single,5900,Bulandshahr,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160 BS6,2022,120000,180.0,Single,2000,Jammu,Jammu Kashmir,Manual_Vehicle
+BMW ,BMW G 310 GS,2021,240000,310.0,Single,10877,Dhanbad,Jharkhand,Manual_Vehicle
+Bajaj ,Bajaj Discover DTSi 125,2007,15000,125.0,Single,5500,Kolkata,West Bengal,Manual_Vehicle
+Mahindra ,Mahindra Duro DZ,2010,28500,,Single,10000,North West Delhi,Delhi,Manual_Vehicle
+Honda ,Honda CD 110 Dream,2016,28500,110.0,Single,85000,Pataudi,Haryana,Manual_Vehicle
+Hero ,Hero Destini 125,2025,20000,105.0,Single,165,Secunderabad,Telangana,Manual_Vehicle
+TVS ,TVS Jupiter,2015,20000,100.0,Multiple,18000,Gurgaon,Haryana,Manual_Vehicle
+Hero ,Hero Glamour Xtec,2022,65000,105.0,Single,2450,East Delhi,Delhi,Manual_Vehicle
+Suzuki ,Suzuki Access 125,2021,55000,110.0,Single,38000,Kundapura,Karnataka,Manual_Vehicle
+Jawa ,Jawa Jawa BS6,2021,165000,300.0,Multiple,15000,Chinnasalem,Tamil Nadu,Manual_Vehicle
+Suzuki ,Suzuki Access 125 BS6,2018,60000,110.0,Single,43500,Pune,Maharashtra,Manual_Vehicle
+TVS ,TVS Jupiter,2015,30000,100.0,Multiple,30000,Chennai,Tamil Nadu,Manual_Vehicle
+Suzuki ,Suzuki V-Strom SX,2022,200000,110.0,Single,10710,Bangalore,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2023,150000,200.0,Single,23000,Davangere,Karnataka,Manual_Vehicle
+Hero ,Hero Splendor Plus 2025,2025,40000,105.0,Single,4100,Ahmedabad,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2013,40000,150.0,Single,60200,Indore,Madhya Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 160,2019,68000,160.0,Single,40000,Panvel,Maharashtra,Manual_Vehicle
+Hero ,Hero Super Splendor,2022,65000,105.0,Single,457,Parel,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha FZ25,2020,100000,200.0,Single,31000,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 160,2018,52000,160.0,Single,45354,Visakhapatnam,Andhra Pradesh,Manual_Vehicle
+Yamaha ,Yamaha Cygnus Ray ZR,2016,35000,200.0,Single,61800,Nagpur,Maharashtra,Manual_Vehicle
+Hero ,Hero Super Splendor XTEC,2024,95000,105.0,Single,2800,T. Nagar,Tamil Nadu,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V3,2024,130000,200.0,Single,4800,Coimbatore,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Karizma R,2014,50000,105.0,Single,29000,Hyderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2015,80000,340.0,Single,42000,Zaheerabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Classic 350 Redditch Red,2018,145000,340.0,Single,18000,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj V15,2016,25000,155.0,Single,42696,Ghaziabad,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha MT-15,2023,140000,200.0,Single,34000,Noida,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha FZS 25,2020,90000,200.0,Multiple,50000,Dharwad,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Bullet 350,2017,125000,340.0,Single,48000,Muzaffarpur,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Pulsar RS 200 BS6,2021,100000,200.0,Single,16900,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2016,90000,340.0,Single,10000,Bhadohi,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha Fazer,2015,40000,200.0,Single,38500,Bannerghatta Road,Karnataka,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V3,2019,65000,200.0,Single,60000,Hapur,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Avenis 125 Race Edition,2022,65000,110.0,Single,56623,Cuttack,Orissa,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 200 NS,2017,70000,200.0,Single,30000,BTM Layout,Karnataka,Manual_Vehicle
+Suzuki ,Suzuki Access 125,2017,28000,110.0,Single,50000,Dwarka,Delhi,Manual_Vehicle
+BGauss ,BGauss B8 Lithium Ion,2022,60000,,Single,2500,Navi Mumbai,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220F,2018,60000,220.0,Single,72000,North Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2016,45000,150.0,Single,31555,Indore,Madhya Pradesh,Manual_Vehicle
+Honda ,Honda Livo Disc,2015,20000,110.0,Single,52560,Kanpur Nagar,Uttar Pradesh,Manual_Vehicle
+Ampere ,Ampere Nexus ST,2025,130000,,Single,650,Tirupur,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Unicorn 160 BS6,2023,90000,110.0,Single,21000,Visakhapatnam,Andhra Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Discover 125T,2013,32000,124.6,Single,71000,Pune,Maharashtra,Manual_Vehicle
+Vespa ,Vespa ZX 125 BS6,2023,100000,125.0,Single,9770,Gadchiroli,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2018,55000,100.0,Single,29216,Bhopal,Madhya Pradesh,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2018,55000,100.0,Single,29300,Bhopal,Madhya Pradesh,Manual_Vehicle
+Hero ,Hero CBZ Xtreme,2011,30000,105.0,Single,70000,Bodhan,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2019,36000,160.0,Single,69500,Ahmedabad,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220F BS6,2025,200000,220.0,Single,1460,Bardhaman,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS400,2024,200000,400.0,Single,500,Hyderabad,Telangana,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dual Tone,2023,185000,340.0,Single,5000,Bhandup,Maharashtra,Manual_Vehicle
+Okaya ,Okaya Faast F2F,2023,140000,,Single,18000,Harhua,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2023,140000,200.0,Single,26000,Hisar,Haryana,Manual_Vehicle
+KTM ,KTM Duke 390,2013,80000,390.0,Single,40000,Hadapsar,Maharashtra,Manual_Vehicle
+Triumph ,Triumph Scrambler 400 X,2024,220000,400.0,Multiple,2780,Virudhunagar,Tamil Nadu,Manual_Vehicle
+TVS ,TVS Sport,2015,155000,100.0,Single,60000,Jalalpur,Uttar Pradesh,Manual_Vehicle
+Deltic ,Deltic Legion,2024,155000,,Single,15000,Bardhaman,West Bengal,Manual_Vehicle
+Royal ,Royal Enfield Himalayan BS VI,2018,155000,340.0,Single,30000,Pune,Maharashtra,Manual_Vehicle
+Bicycle ,Bicycle Hero,2021,42000,,Single,23000,Pune,Maharashtra,Electrical_Vehicle
+Honda ,Honda Activa 5G,2019,42000,110.0,Single,40500,Dehradun,Utarakhand,Manual_Vehicle
+Bajaj ,Bajaj Pulsar NS 160,2018,72000,160.0,Single,23000,Hyderabad,Telangana,Manual_Vehicle
+BMW ,BMW G 310 RR,2023,300000,310.0,Single,4425,BTM Layout,Karnataka,Manual_Vehicle
+Honda ,Honda Shine 125 Drum,2013,31000,110.0,Single,45400,Jodhpur,Rajasthan,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF BS6,2025,65000,110.0,Single,100,Nagpur,Maharashtra,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 V3,2018,65000,200.0,Single,38700,Goregaon,Maharashtra,Manual_Vehicle
+TVS ,TVS NTORQ 125 Race XP,2024,81000,100.0,Single,1800,Mumbai,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Avenger 220 DTS-i,2010,25000,220.0,Single,50000,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Chetak Premium,2022,65000,,Single,50000,Sarjapur Road,Karnataka,Electrical_Vehicle
+Royal ,Royal Enfield Bullet Standard 350,1974,130000,340.0,Multiple,13600,Ahmedabad,Gujarat,Manual_Vehicle
+Hero ,Hero HF Deluxe BS6,2021,65000,105.0,Single,7900,Vidisha,Madhya Pradesh,Manual_Vehicle
+Bajaj ,Bajaj CT 110 KS,2019,32000,110.0,Single,57184,Garhmukteshwar,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS iQube Electric,2021,80000,100.0,Single,48000,Aurangabad,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Gixxer BS6,2022,110000,110.0,Single,24500,Hyderabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 135LS,2022,30000,340.0,Multiple,50000,Jabalpur,Madhya Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF Fi,2018,70000,110.0,Single,26000,Marathahalli,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2024,150000,340.0,Single,16000,North Lakhimpur,Assam,Manual_Vehicle
+Tunwal ,Tunwal Sport 63 48V,2021,30000,,Single,25000,Gopalganj,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Discover 100T,2013,30000,100.0,Single,62000,Jodhpur,Rajasthan,Manual_Vehicle
+Royal ,Royal Enfield Classic Signals Stormrider Sand,2021,160000,340.0,Single,14000,Jaipur,Rajasthan,Manual_Vehicle
+Yamaha ,Yamaha FZ,2019,68000,200.0,Single,40000,Mangalore,Karnataka,Manual_Vehicle
+Yezdi ,Yezdi Scrambler Dual Tone,2023,190000,340.0,Single,2500,Gurgaon,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Bullet Machismo 350 Old,1993,130000,340.0,Multiple,250,Mumbai,Maharashtra,Manual_Vehicle
+Honda ,Honda Shine 125 Drum OBD2,2019,55000,110.0,Single,4800,Patna,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2016,40000,150.0,Single,39000,Guntur,Andhra Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Chetak Electric,2022,80000,,Single,25000,Hyderabad,Telangana,Electrical_Vehicle
+Harley ,Harley Davidson Iron 883,2015,550000,440.0,Single,20000,Vasai-Virar,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF SP,2017,45000,110.0,Single,39000,Hyderabad,Telangana,Manual_Vehicle
+Vespa ,Vespa ZX 125,2019,55000,125.0,Single,17000,Bellandur,Karnataka,Manual_Vehicle
+Hero ,Hero Splendor Plus BS6,2020,65000,105.0,Single,40300,Gurgaon,Haryana,Manual_Vehicle
+Yezdi ,Yezdi Roadster,2022,175000,340.0,Single,9700,Hisar,Haryana,Manual_Vehicle
+Honda ,Honda CB Unicorn,2013,50000,110.0,Single,50000,Ameenpur,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Freedom 125 NG04 Disc LED,2024,100000,125.0,Single,5700,Dahisar,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400,2019,120000,400.0,Multiple,26000,Bangalore,Karnataka,Manual_Vehicle
+Hero ,Hero Duet 110,2017,18000,105.0,Single,55300,Shahdara,Delhi,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2025,165000,,Single,20690,Jhajjar,Haryana,Electrical_Vehicle
+Triumph ,Triumph Speed 400,2025,165000,400.0,Single,700,Borivali,Maharashtra,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2023,165000,340.0,Single,4000,Kolkata,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2017,35000,150.0,Single,46000,Agra,Uttar Pradesh,Manual_Vehicle
+Hero ,Hero Maestro Edge 110 BS6,2021,55000,105.0,Single,4270,Mumbai,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Himalayan BS VI,2020,240000,340.0,Single,10659,Secunderabad,Telangana,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2014,75000,340.0,Single,14676,Jhajjar,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2012,55000,340.0,Single,21000,Ghatkopar,Maharashtra,Manual_Vehicle
+Honda ,Honda Unicorn Dazzler,2011,25000,110.0,Single,25000,Belpahar,Orissa,Manual_Vehicle
+LML ,LML Vespa,2013,11000,,Single,30000,Ahmedabad,Gujarat,Manual_Vehicle
+Revolt ,Revolt RV 400,2022,85000,400.0,Single,24900,Surat,Gujarat,Manual_Vehicle
+Deltic ,Deltic ZGS,2023,62000,,Single,7987,Banashankari,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Chetak 3502 Tecpac,2025,62000,,Single,2700,Kalyanpur,Uttar Pradesh,Electrical_Vehicle
+Honda ,Honda Activa 125,2022,62000,110.0,Single,16500,Saket,Delhi,Manual_Vehicle
+Revolt ,Revolt RV 400,2021,70000,400.0,Single,14800,West Delhi,Delhi,Manual_Vehicle
+Yamaha ,Yamaha YZF R15 V2,2016,50000,200.0,Single,60000,Gurgaon,Haryana,Manual_Vehicle
+Honda ,Honda Activa 6G,2021,45000,110.0,Single,38772,Bansgaon,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Shine 125,2008,60000,110.0,Single,74000,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+Yezdi ,Yezdi Roadster Dark,2022,60000,340.0,Single,23000,Muzaffarpur,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 125 Split Seat,2025,60000,125.0,Single,1500,Karnal,Haryana,Manual_Vehicle
+Royal ,Royal Enfield Thunderbird 350,2013,60000,340.0,Single,25000,Pondicherry,Pondicherry,Manual_Vehicle
+Yamaha ,Yamaha Fascino 125 Fi Hybrid,2024,85000,200.0,Single,3800,Ahmedabad,Gujarat,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2017,100000,340.0,Single,23000,Saket,Delhi,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2023,180000,340.0,Single,11000,Hyderabad,Telangana,Manual_Vehicle
+Yamaha ,Yamaha FZ-S FI V2,2017,55000,200.0,Single,80000,Sattenapalle,Andhra Pradesh,Manual_Vehicle
+Honda ,Honda CB350 DLX Pro,2023,120000,110.0,Single,15000,Saidabad,Telangana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N250,2022,120000,250.0,Single,1600,Bangalore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Fireball,2021,130000,340.0,Single,27000,Greater Noida,Uttar Pradesh,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF,2023,120000,110.0,Single,20000,Vizianagaram,Andhra Pradesh,Manual_Vehicle
+Yamaha ,Yamaha YZF R15,2016,60000,200.0,Multiple,42700,Pimpri-Chinchwad,Maharashtra,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2020,80000,100.0,Single,4180,Mumbai,Maharashtra,Manual_Vehicle
+Honda ,Honda Hness CB350 DLX Pro,2021,160000,110.0,Single,17300,Chennai,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Activa 6G Dlx,2022,75000,110.0,Single,9150,New Delhi,Delhi,Manual_Vehicle
+TVS ,TVS Jupiter,2014,30000,100.0,Single,58500,Secunderabad,Telangana,Manual_Vehicle
+Kawasaki ,Kawasaki Ninja 650 BS6 2021,2020,550000,650.0,Single,7200,Motihari,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Dominar 400,2019,150000,400.0,Single,44000,Coimbatore,Tamil Nadu,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS Sirius White,2021,125000,300.0,Single,16000,Zaidpur,Uttar Pradesh,Manual_Vehicle
+KTM ,KTM Duke 200,2022,160000,200.0,Single,6300,Pune,Maharashtra,Manual_Vehicle
+Revolt ,Revolt RV 400,2025,45000,400.0,Single,5000,Central Delhi,Delhi,Manual_Vehicle
+Honda ,Honda Livo Disc,2019,45000,110.0,Single,17800,New Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2019,65000,160.0,Single,23540,Whitefield,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Continental GT 650 Twin,2025,80000,340.0,Single,1500,Bhubaneshwar,Orissa,Manual_Vehicle
+Honda ,Honda Activa 6G Dlx,2022,80000,110.0,Single,24490,Jalna,Maharashtra,Manual_Vehicle
+Honda ,Honda Activa 125,2016,45000,110.0,Single,75,Kolkata,West Bengal,Manual_Vehicle
+mXmoto ,mXmoto M16,2024,200000,,Single,7500,Wakad,Maharashtra,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2024,70000,,Single,3500,Panikoili,Orissa,Electrical_Vehicle
+Honda ,Honda SP 125 BSVI,2021,70000,110.0,Single,39178,Visakhapatnam,Andhra Pradesh,Manual_Vehicle
+Yamaha ,Yamaha R15M,2024,175000,200.0,Single,5755,Sholinganallur,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Classic Stealth Black,2024,200000,340.0,Single,3500,Ludhiana,Punjab,Manual_Vehicle
+TVS ,TVS NTORQ 125 Race Edition,2022,65000,100.0,Single,3950,Noida,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 160,2021,87000,160.0,Single,47000,Mainpuri,Uttar Pradesh,Manual_Vehicle
+Royal ,Royal Enfield Hunter 350 Metro,2022,150000,340.0,Single,12836,Meerut,Uttar Pradesh,Manual_Vehicle
+Bajaj ,Bajaj 2021 Dominar 400,2021,155000,400.0,Single,43000,Chavara,Kerala,Manual_Vehicle
+Suzuki ,Suzuki Gixxer SF,2025,100000,110.0,Single,12000,Meerut,Uttar Pradesh,Manual_Vehicle
+Ola ,Ola S1 Pro Gen2,2023,100000,,Single,10000,Kalyan,Maharashtra,Electrical_Vehicle
+Royal ,Royal Enfield Classic Stealth Black,2022,200000,340.0,Single,13000,Saket,Delhi,Manual_Vehicle
+Bajaj ,Bajaj V12,2018,50000,,Single,44000,Pune,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Pulsar N160 Dual Channel ABS,2022,125000,160.0,Single,34740,Tilpat,Haryana,Manual_Vehicle
+KTM ,KTM Duke 250 2024,2023,148000,250.0,Single,40800,Chennai,Tamil Nadu,Manual_Vehicle
+Yamaha ,Yamaha MT-15 Ver 2.0,2023,130000,200.0,Multiple,11900,Howrah,West Bengal,Manual_Vehicle
+Vespa ,Vespa VX 125,2015,40000,125.0,Multiple,40140,Bangalore,Karnataka,Manual_Vehicle
+Royal ,Royal Enfield Classic 350 2024,2022,40000,340.0,Single,21000,Ahmedabad,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2017,40000,150.0,Single,60000,New Delhi,Delhi,Manual_Vehicle
+Hero ,Hero Splendor Plus IBS i3s,2020,58000,105.0,Single,67000,New Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Avenger Cruise 220,2019,65000,220.0,Single,59000,Medchal-Malkajgiri,Telangana,Manual_Vehicle
+TVS ,TVS XL 100 Heavy Duty i-TOUCHstart,2021,43000,100.0,Single,9496,Ibrahimpatnam,Andhra Pradesh,Manual_Vehicle
+Benelli ,Benelli Imperiale 400,2019,100000,400.0,Single,13500,Rohini,Delhi,Manual_Vehicle
+Hero ,Hero Glamour 125 Disc,2015,35000,105.0,Single,85000,North West Delhi,Delhi,Manual_Vehicle
+Hero ,Hero Maestro,2014,41000,105.0,Single,36245,Mhow,Madhya Pradesh,Manual_Vehicle
+Ather ,Ather Rizta Z,2024,145000,,Single,2100,Hoskote,Karnataka,Electrical_Vehicle
+Ola ,Ola S1 Pro,2022,70000,,Single,24700,Surat,Gujarat,Electrical_Vehicle
+Royal ,Royal Enfield Continental GT 650 Twin,2019,305000,340.0,Single,29000,Rajajinagar,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220F,2018,34000,220.0,Single,40000,Bally,West Bengal,Manual_Vehicle
+Bajaj ,Bajaj Avenger Street 150,2016,34000,150.0,Single,38000,Mumbai,Maharashtra,Manual_Vehicle
+KTM ,KTM Duke 250,2017,110000,250.0,Single,30800,Jaipur,Rajasthan,Manual_Vehicle
+Honda ,Honda Activa 125,2016,35000,110.0,Single,37545,Manesar,Haryana,Manual_Vehicle
+Bajaj ,Bajaj Pulsar AS 200,2016,45000,200.0,Single,10500,New Delhi,Delhi,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 220F,2018,63000,220.0,Single,35000,Kundli,Haryana,Manual_Vehicle
+Hero ,Hero Maestro Edge,2016,25000,105.0,Multiple,61500,Vadodara,Gujarat,Manual_Vehicle
+Bajaj ,Bajaj Chetak 3502 Standard,2025,25000,,Single,10000,Pimpri-Chinchwad,Maharashtra,Electrical_Vehicle
+Honda ,Honda Activa,2013,25000,110.0,Multiple,23500,Indore,Madhya Pradesh,Manual_Vehicle
+Bajaj ,Bajaj V15,2016,25000,155.0,Single,30000,Darbhanga,Bihar,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 200 NS,2017,60000,200.0,Single,33600,Pune,Maharashtra,Manual_Vehicle
+Hero ,Hero Glamour 125,2008,25000,105.0,Single,56700,Bangalore,Karnataka,Manual_Vehicle
+Bajaj ,Bajaj Pulsar 150 DTSi,2022,88000,150.0,Single,34000,Kovalam,Kerala,Manual_Vehicle
+Hero ,Hero Destini 125,2025,200000,105.0,Single,20,Bhandup,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Supernova,2022,200000,340.0,Single,909,Hyderabad,Telangana,Manual_Vehicle
+Harley ,Harley Davidson Iron 883,2021,900000,440.0,Single,11000,Navi Mumbai,Maharashtra,Manual_Vehicle
+Bajaj ,Bajaj Discover 125 ST,2013,25000,125.0,Single,41000,Bareilly,Uttar Pradesh,Manual_Vehicle
+Bicycle ,Bicycle Montra,2020,34000,,Single,100,KR Puram,Karnataka,Electrical_Vehicle
+Bajaj ,Bajaj Pulsar 150,2016,34000,150.0,Single,90000,Anna Nagar,Tamil Nadu,Manual_Vehicle
+Royal ,Royal Enfield Meteor 350 Stellar,2022,160000,340.0,Multiple,24800,Hyderabad,Telangana,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2020,95000,100.0,Single,27000,Dehradun,Utarakhand,Manual_Vehicle
+TVS ,TVS NTORQ Super Squad Edition,2023,85000,100.0,Single,17000,Srinagar,Jammu Kashmir,Manual_Vehicle
+Royal ,Royal Enfield Classic 350,2013,72000,340.0,Single,37000,North Delhi,Delhi,Manual_Vehicle
+Suzuki ,Suzuki Gixxer 150,2015,50000,110.0,Single,39000,Akola,Maharashtra,Manual_Vehicle
+Honda ,Honda CB Unicorn,2020,75000,110.0,Single,23000,Mulund,Maharashtra,Manual_Vehicle
+Royal ,Royal Enfield Himalayan Sleet,2018,115000,340.0,Single,45000,Greater Noida,Uttar Pradesh,Manual_Vehicle
+TVS ,TVS Apache RTR 160 4V,2019,65000,100.0,Single,40000,Bharthana,Uttar Pradesh,Manual_Vehicle
+Yamaha ,Yamaha FZ16,2016,35000,200.0,Single,23000,Manesar,Haryana,Manual_Vehicle
+Triumph ,Triumph Speed T4,2025,35000,,Single,700,Tiruchirappalli,Tamil Nadu,Manual_Vehicle
+Hero ,Hero Splendor iSmart 110,2016,35000,105.0,Single,150000,Mirzapur,Uttar Pradesh,Manual_Vehicle
+Honda ,Honda Activa i,2017,36000,110.0,Single,9500,Ambattur,Tamil Nadu,Manual_Vehicle
+Honda ,Honda Unicorn,2020,53000,110.0,Single,28000,Dum Dum,West Bengal,Manual_Vehicle
+Honda ,Honda CBR 150R,2015,45000,110.0,Single,36000,Velachery,Tamil Nadu,Manual_Vehicle
+Hero ,Hero CD 100,1999,10000,105.0,Single,40000,Vadodara,Gujarat,Manual_Vehicle
+Jawa ,Jawa forty two,2022,110000,300.0,Single,10250,New Delhi,Delhi,Manual_Vehicle
+Jawa ,Jawa 42 Dual Channel ABS AllStar Black,2021,165000,300.0,Single,6700,Pune,Maharashtra,Manual_Vehicle
+Suzuki ,Suzuki Gixxer 150,2016,60000,110.0,Multiple,101800,Kozhikode,Kerala,Manual_Vehicle
+Honda ,Honda CB Hornet 160R,2016,60000,110.0,Single,12000,Pune,Maharashtra,Manual_Vehicle
